@@ -12,13 +12,13 @@ OS Ubuntu 18.04/18.10, root
 После ssh подключения, используйте скрипт установки через wget
 
 ```sh
-wget -qO- https://raw.githubusercontent.com/abrakadobr/vpnface_lite/master/install.sh | bash
+wget -qO- https://raw.githubusercontent.com/timon49/vpnface_lite/master/install.sh | bash
 ```
 
 или curl
 
 ```sh
-curl -o- https://raw.githubusercontent.com/abrakadobr/vpnface_lite/master/install.sh | bash
+curl -o- https://raw.githubusercontent.com/timon49/vpnface_lite/master/install.sh | bash
 ```
 
 После выдачи приглашения, завершите установку через веб интерфейс.
